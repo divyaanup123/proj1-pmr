@@ -1,0 +1,18 @@
+Hypothesis Test: Comparison of Pregnancy-Related Mortality Rates
+Obese III (40+) vs. Underweight/Normal weight (<25)
+
+Test: Independent Samples t-test
+
+Results:
+t-statistic: 7.8183
+p-value: 1.6592e-07
+
+Mean Rates:
+Underweight/Normal weight (<25): 8.15
+Obese III (40+): 45.15
+
+Percentage Difference:
+The pregnancy-related mortality rate for Obese III (40+) is 453.73% higher than Underweight/Normal weight (<25).
+
+Interpretation:
+The difference in mortality rates between the two groups is statistically significant.
